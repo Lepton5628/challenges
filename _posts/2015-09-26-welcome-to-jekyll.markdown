@@ -26,8 +26,8 @@ for(var i = 0;i < tests_number;i++){
 
 # The Challenge
 
-You must write a function ``Random''.
-It will have two parameter: ``min'' and ``max''.
+You must write a function `Random`.
+It will have two parameter: `min` and `max`.
 
 It will return a value between min and max such that:
 
